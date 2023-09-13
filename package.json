@@ -1,0 +1,11 @@
+{
+  "name": "yarn-init",
+  "packageManager": "yarn@3.6.3",
+  "engines": {
+    "node": ">=18.13.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "server": "node index.js"
+  }
+}
